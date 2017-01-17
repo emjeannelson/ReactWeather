@@ -16,7 +16,9 @@ console.log(add(9,0));
 
 //addStatement
 
-var addStatement = (a,b) => {a+b}
+var addStatement = (a,b) => {
+  return a+b
+}
 
 //addExpression
 var addExpression = (a,b) => a+b
